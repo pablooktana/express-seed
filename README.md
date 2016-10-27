@@ -9,5 +9,5 @@ npm start
 
 # Development
 ```
-npm start
+npm run dev
 ```
